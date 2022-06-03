@@ -113,7 +113,7 @@ class RobotState extends Component {
             <h4 className="mt-4">Position</h4>
             <p className="mt-0"> x:{this.state.x} </p>
             <p className="mt-0"> y:{this.state.y} </p>
-            <p className="mt-0"> Orientation:{this.state.orientation} </p>
+            <p className="mt-0"> Orientation:{this.state.orientation}° </p>
           </Col>
         </Row>
         <Row>
